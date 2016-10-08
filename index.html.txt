@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1>Hello World</h1>
+<p> Iam hosted with Github pages.</p>
+<a href="MadMonerScraper.html">Here's the MadMoneyScraper WDC</a>
+</body>
+</html>
